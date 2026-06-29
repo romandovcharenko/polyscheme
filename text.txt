@@ -1,0 +1,27 @@
+Instruction:
+
+Click the S button to save the current project, the file will be saved in the examples folder named save.txt.
+
+To open a project, press the O button and write the name of the file. The file should be in the examples folder.
+
+The Help button on the panel or the A key on the keyboard will open or close the help.
+
+The R button will change the size of the canvas.
+
+With the M button you can copy and delete the selected area. Once selected, press Backspace to delete the area, and to copy, use the arrow keys on your keyboard to move the desired area. To move an object without copying, you can select an area larger than the canvas on which the object is located, or delete the unnecessary area after copying.
+
+The H button will hide or show the panel below.
+
+The C button will center the position of the canvas or return the help text to the beginning.
+
+The spacebar or the Start button on the bottom panel will start or stop the flow of electrons.
+
+The G button removes all current electrons.
+
+Buttons 1-8 or on the panel below you can choose the desired object to place on the canvas. To learn about the characteristics of each, point and wait for the desired object on the panel.
+
+The B button will turn the board in the other direction.
+
+The "Reverse signal" element allows you to move the flow of electrons to the reverse side.
+
+The display converts the binary number into decimal directly on the canvas. For this, it has 8 inputs from above.
